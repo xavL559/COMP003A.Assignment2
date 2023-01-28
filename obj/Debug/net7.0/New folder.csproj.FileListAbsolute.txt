@@ -1,0 +1,15 @@
+C:\Users\17472\OneDrive\Desktop\New folder\bin\Debug\net7.0\New folder.exe
+C:\Users\17472\OneDrive\Desktop\New folder\bin\Debug\net7.0\New folder.deps.json
+C:\Users\17472\OneDrive\Desktop\New folder\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\17472\OneDrive\Desktop\New folder\bin\Debug\net7.0\New folder.dll
+C:\Users\17472\OneDrive\Desktop\New folder\bin\Debug\net7.0\New folder.pdb
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.dll
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.pdb
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\17472\OneDrive\Desktop\New folder\obj\Debug\net7.0\ref\New folder.dll
